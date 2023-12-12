@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>en</dc:language>
+    <dc:language>zh</dc:language>
+    <dc:title>The Unity of Power and People 权民一体论</dc:title>
+    <dc:contributor>No.9</dc:contributor>
+    <meta property="dcterms:modified">2023-12-10T15:04:28Z</meta>
+    <dc:identifier id="BookId">urn:uuid:b6961310-1b2e-4300-9d1e-4429a060f41f</dc:identifier>
+    <meta name="Sigil version" content="2.0.2"/>
+  </metadata>
+  <manifest>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="x1.png" href="Images/1.png" media-type="image/png"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x2.png" href="Images/2.png" media-type="image/png"/>
+    <item id="x3.png" href="Images/3.png" media-type="image/png"/>
+    <item id="x4.png" href="Images/4.png" media-type="image/png"/>
+    <item id="x02.xhtml" href="Text/02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x03.xhtml" href="Text/03.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x5_6.png" href="Images/5_6.png" media-type="image/png"/>
+    <item id="x7.png" href="Images/7.png" media-type="image/png"/>
+    <item id="x8.png" href="Images/8.png" media-type="image/png"/>
+    <item id="x04.xhtml" href="Text/04.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x9.png" href="Images/9.png" media-type="image/png"/>
+    <item id="x10.png" href="Images/10.png" media-type="image/png"/>
+    <item id="x11.png" href="Images/11.png" media-type="image/png"/>
+    <item id="x12.png" href="Images/12.png" media-type="image/png"/>
+    <item id="x05.xhtml" href="Text/05.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x06.xhtml" href="Text/06.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x07.xhtml" href="Text/07.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x13.png" href="Images/13.png" media-type="image/png"/>
+    <item id="x08.xhtml" href="Text/08.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x14_15.png" href="Images/14_15.png" media-type="image/png"/>
+    <item id="x16.png" href="Images/16.png" media-type="image/png"/>
+    <item id="x09.xhtml" href="Text/09.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x17.jpeg" href="Images/17.jpeg" media-type="image/jpeg"/>
+    <item id="x18.png" href="Images/18.png" media-type="image/png"/>
+    <item id="x10.xhtml" href="Text/10.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x11.xhtml" href="Text/11.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x12.xhtml" href="Text/12.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="x19.jpeg" href="Images/19.jpeg" media-type="image/jpeg"/>
+    <item id="x13.xhtml" href="Text/13.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="cover.jpeg" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pre04fzty.xhtml" href="Text/pre04fzty.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="pre02jj.xhtml" href="Text/pre02jj.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="pre03qy.xhtml" href="Text/pre03qy.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="pre01yqts.xhtml" href="Text/pre01yqts.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="local.css" href="Styles/local.css" media-type="text/css"/>
+    <item id="Script1.js" href="Misc/Script1.js" media-type="application/javascript"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="pre01yqts.xhtml"/>
+    <itemref idref="pre02jj.xhtml"/>
+    <itemref idref="pre03qy.xhtml"/>
+    <itemref idref="pre04fzty.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="x02.xhtml"/>
+    <itemref idref="x03.xhtml"/>
+    <itemref idref="x04.xhtml"/>
+    <itemref idref="x05.xhtml"/>
+    <itemref idref="x06.xhtml"/>
+    <itemref idref="x07.xhtml"/>
+    <itemref idref="x08.xhtml"/>
+    <itemref idref="x09.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+  </spine>
+</package>
