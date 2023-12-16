@@ -42,6 +42,7 @@
 | 强力 | force |
 | 天经地义 | a matter of course |
 | 二元 | dualistic |
+| 二元性 | dualism |
 | 章节提要 | Chapter synopsis |
 | 血缘氏族 | blood clans |
 | 亲属 | kinship |
